@@ -3,3 +3,13 @@
 
 It works with:
 *  inmuebles24.com
+* adondevivir.com
+* conlallave.com
+* plusvalia.com
+* compreoalquile.com
+* zonaprop.com.ar
+* compreoalquile.co.cr
+* inmuebles24.co
+* wimoveis.com.br
+* imoveiscuritiba.com.br
+* imovelweb.com.br
